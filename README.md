@@ -9,6 +9,7 @@ It retrieves technical courses from [Brainlox](https://brainlox.com/courses/cate
 - **Conversational AI** using `Mistral 7B` or other LLMs  
 - **Flask API** for user interactions  
 - **Deployed with Ngrok** for public access
+- **Tested API** using Postman
 
 ## **Google Colab Notebook**
 👉 [Run the chatbot in Google Colab](https://colab.research.google.com/drive/1z9EyV4KQq37De3YZFhRYpLFDOY60fcDQ?usp=sharing)  
