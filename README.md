@@ -12,7 +12,6 @@ It retrieves technical courses from [Brainlox](https://brainlox.com/courses/cate
 
 ## **Google Colab Notebook**
 👉 [Run the chatbot in Google Colab](https://colab.research.google.com/drive/1z9EyV4KQq37De3YZFhRYpLFDOY60fcDQ?usp=sharing)  
-*(Replace `1z9EyV4KQq37De3YZFhRYpLFDOY60fcDQ?usp=sharing` with your actual Colab notebook ID.)*
 
 ## 📌 Installation & Usage
 1. Health Check
