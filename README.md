@@ -15,13 +15,14 @@ It retrieves technical courses from [Brainlox](https://brainlox.com/courses/cate
 
 ## 📌 Installation & Usage
 1. Health Check
+   
    Method: GET
    URL: https://your-ngrok-url.ngrok.io/health
    Response:
   {
     "status": "ready"
   }
-2. Chat with the AI
+3. Chat with the AI
    Method: POST
   URL: https://your-ngrok-url.ngrok.io/chat
   or /test_qa_chain or /test_model
