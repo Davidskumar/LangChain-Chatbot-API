@@ -52,8 +52,9 @@ It retrieves technical courses from [Brainlox](https://brainlox.com/courses/cate
 
 Here’s an example of the chatbot's response:
 
-![Chatbot Output](screenshots/chatbot_output.png)
-![Chatbot Output](screenshots/chatbot_output.png)
+![Chatbot Output](ScreenShots/Chatrespo.png)
+
+![Chatbot Output](ScreenShots/HealthResp.png)
 
 
 
