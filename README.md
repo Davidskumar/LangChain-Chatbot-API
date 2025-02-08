@@ -17,24 +17,33 @@ It retrieves technical courses from [Brainlox](https://brainlox.com/courses/cate
 1. Health Check
    
    Method: GET
+   
    URL: https://your-ngrok-url.ngrok.io/health
+   
    Response:
   {
     "status": "ready"
   }
-3. Chat with the AI
+
+2. Chat with the AI
+
    Method: POST
-  URL: https://your-ngrok-url.ngrok.io/chat
-  or /test_qa_chain or /test_model
-  Headers:
-  {
-    "Content-Type": "application/json"
-  }
-  Request Body:
+
+   URL: https://your-ngrok-url.ngrok.io/chat
+
+   or /test_qa_chain or /test_model
+
+   Headers:
+   {
+     "Content-Type": "application/json"
+   }
+
+   Request Body:
   {
   "message": "Tell me about technical courses."
   }
-  Response:
+
+   Response:
   {
     "response": "Here’s a list of technical courses: Data Science, AI, Web Development..."
   }
